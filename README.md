@@ -121,7 +121,7 @@ vendor-performance-analysis/
   - Bulk Purchase Savings
   - Performance Heatmaps
 
-![image alt](https://github.com/samyakmda/vendor-performance-analysis-sql-python-powerbi-test/tree/e4742f0bfbe5efa63f48134d6ce794d4c22213b8/Images)
+![image alt](https://github.com/samyakmda/vendor-performance-analysis-sql-python-powerbi-test/blob/d2dcfd2552936100c7b0dbfa6b4f15d45972d692/Images/dashboard.png)
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
